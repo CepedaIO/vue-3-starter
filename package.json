@@ -20,6 +20,7 @@
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^7.16.0",
     "postcss": "^8.3.6",
+    "postcss-pxtorem": "^6.0.0",
     "precss": "^4.0.0",
     "sass": "~1.32.0",
     "sass-loader": "^10.0.0",
