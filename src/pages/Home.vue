@@ -1,5 +1,5 @@
 <template>
-  <h1>This is AJ's Vue 3 Starter Project</h1>
+  <h1 class="bg-red-300">This is AJ's Vue 3 Starter Project</h1>
 </template>
 
 <script lang="ts">
